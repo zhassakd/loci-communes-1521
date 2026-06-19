@@ -8,9 +8,9 @@
 
 ## 关于本书
 
-《神学要义》(*Loci Communes Rerum Theologicarum seu Hypotyposes Theologicae*) 是宗教改革时代第一部系统神学著作，由马丁·路德最亲密的同工——年仅24岁的腓力·墨兰顿于1521年出版。路德本人对此书推崇备至，称其"不仅配得永垂不朽，更配得列入教会正典"。
+《基本概念》（一名《神学要义》，*Loci Communes Rerum Theologicarum seu Hypotyposes Theologicae*）是宗教改革时代第一部系统神学著作，由马丁·路德最亲密的同工——年仅24岁的腓力·墨兰顿于1521年出版。中文学界通称《基本概念》。路德本人对此书推崇备至，称其"不仅配得永垂不朽，更配得列入教会正典"。
 
-本书以"要义"(loci)方法组织，覆盖11个神学主题，核心论点是：**认识基督即认识他的恩惠** (*hoc est Christum cognoscere, beneficia eius cognoscere*)。
+本书以"基本概念"(loci communes)方法组织，覆盖11个神学主题，核心论点是：**认识基督即认识他的恩惠** (*hoc est Christum cognoscere, beneficia eius cognoscere*)。
 
 ## 各章内容
 
